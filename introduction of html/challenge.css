@@ -1,0 +1,26 @@
+button{
+  background-color: rgb(250, 250, 250);
+  color: gray;
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+.number1{ 
+  margin-right: 5px;
+}
+.number2{ 
+  margin-right: 5px;
+}
+.number3{ 
+  margin-right: 5px;
+}
+.number4{ 
+  margin-right: 5px;
+}
+.number5{ 
+  margin-right: 5px;
+
+}
